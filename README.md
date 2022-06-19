@@ -1,6 +1,6 @@
 #Program to count vowel or consonant
 
-# Using for loop with if else statements
+**# Using for loop with if else statements**
 
 str = input("Enter the string: ")
 
@@ -23,7 +23,7 @@ print("The number of Vowels:", vow)
 print("The number of Consonants:", con)
 
 
-#Using def functions
+**#Using def functions**
 
 def count(val):
 
